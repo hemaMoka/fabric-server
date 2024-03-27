@@ -1,0 +1,418 @@
+{
+  "signup": [
+    {
+      "id": 1,
+      "name": "ibrahim mohamed",
+      "email": "ibrahim@mail.com",
+      "phone": "01284954021",
+      "password": "123456"
+    },
+    {
+      "name": "moka",
+      "email": "moka@mail.com",
+      "phone": "01222222222",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "fescoz",
+      "title": "قماش فيسكوز بيور منت جرين ساده",
+      "desc": "فستان▪️طرح▪️قمصان▪️جيبه قماشه ناعمه انسيابيه و لطيفه على الجسم, بتكش بسيط اول غسله فقط تعليمات الغسيل: يغسل على البارد او غسيل جاف لضمان الحفاظ على جودة و لون القماش",
+      "width": 150,
+      "price": "99",
+      "img_path": "https://mahitab.com/cdn/shop/files/WhatsAppImage2024-02-21at7.22.29PM_medium@2x.progressive.jpg?v=1708591823"
+    },
+    {
+      "id": 2,
+      "category": "fescoz",
+      "title": "قماش فيسكوز بيور مشجر",
+      "desc": "فستان▪️طرح▪️قمصان▪️جيبه قماشه ناعمه انسيابيه و لطيفه على الجسم, بتكش بسيط اول غسله فقط تعليمات الغسيل: يغسل على البارد او غسيل جاف لضمان الحفاظ على جودة و لون القماش",
+      "width": 150,
+      "price": "99",
+      "img_path": "https://mahitab.com/cdn/shop/products/4a69d82e1535b2b087623fa6aa7e3a28_medium@2x.progressive.jpg?v=1709192419"
+    },
+    {
+      "id": 3,
+      "category": "fescoz",
+      "title": "قماش فيسكوز بيور مشجر",
+      "desc": "فستان▪️طرح▪️قمصان▪️جيبه قماشه ناعمه انسيابيه و لطيفه على الجسم, بتكش بسيط اول غسله فقط تعليمات الغسيل: يغسل على البارد او غسيل جاف لضمان الحفاظ على جودة و لون القماش",
+      "width": 150,
+      "price": "99",
+      "img_path": "https://mahitab.com/cdn/shop/products/9a646cb3108294ec7eb28f010cf9beaf_medium@2x.progressive.jpg?v=1709192523"
+    },
+    {
+      "id": 4,
+      "category": "fescoz",
+      "title": "قماش فيسكوز بيور اسود ساده",
+      "desc": "فستان▪️طرح▪️قمصان▪️جيبه قماشه ناعمه انسيابيه و لطيفه على الجسم, بتكش بسيط اول غسله فقط تعليمات الغسيل: يغسل على البارد او غسيل جاف لضمان الحفاظ على جودة و لون القماش",
+      "width": 150,
+      "price": "99",
+      "img_path": "https://mahitab.com/cdn/shop/products/IMG_4272_d8072127-99ac-4f02-b3a0-6ce1a17fe9cf_medium@2x.progressive.jpg?v=1624153523"
+    },
+    {
+      "id": 5,
+      "category": "fescoz",
+      "title": "قماش فيسكوز بيور نبيتي ساده",
+      "desc": "فستان▪️طرح▪️قمصان▪️جيبه قماشه ناعمه انسيابيه و لطيفه على الجسم, بتكش بسيط اول غسله فقط تعليمات الغسيل: يغسل على البارد او غسيل جاف لضمان الحفاظ على جودة و لون القماش",
+      "width": 150,
+      "price": "99",
+      "img_path": "https://mahitab.com/cdn/shop/products/image_c56e75e5-e81c-4c54-bb90-9cfdc244de5f_medium@2x.progressive.jpg?v=1648713201"
+    },
+    {
+      "id": 6,
+      "category": "fescoz",
+      "title": "قماش فيسكوز بيور مشجر",
+      "desc": "فستان▪️طرح▪️قمصان▪️جيبه قماشه ناعمه انسيابيه و لطيفه على الجسم, بتكش بسيط اول غسله فقط تعليمات الغسيل: يغسل على البارد او غسيل جاف لضمان الحفاظ على جودة و لون القماش",
+      "width": 150,
+      "price": "99",
+      "img_path": "https://mahitab.com/cdn/shop/products/21e06c0120d5912979696066247a3a3f_medium@2x.progressive.jpg?v=1709192456"
+    },
+    {
+      "id": 7,
+      "category": "fescoz",
+      "title": "قماش كريب فيسكوز",
+      "desc": "فستان▪️طرح▪️قمصان▪️جيبه قماشه ناعمه انسيابيه و لطيفه على الجسم, بتكش بسيط اول غسله فقط تعليمات الغسيل: يغسل على البارد او غسيل جاف لضمان الحفاظ على جودة و لون القماش",
+      "width": 150,
+      "price": "75",
+      "img_path": "https://mahitab.com/cdn/shop/files/IMG_9281_medium@2x.progressive.jpg?v=1692859729"
+    },
+    {
+      "id": 8,
+      "category": "fescoz",
+      "title": "قماش فيسكوز بيور موف ساده",
+      "desc": "فستان▪️طرح▪️قمصان▪️جيبه قماشه ناعمه انسيابيه و لطيفه على الجسم, بتكش بسيط اول غسله فقط تعليمات الغسيل: يغسل على البارد او غسيل جاف لضمان الحفاظ على جودة و لون القماش",
+      "width": 150,
+      "price": "99",
+      "img_path": "https://mahitab.com/cdn/shop/files/IMG_7760_07207523-db22-444e-8bcb-b1b1dccba472_medium@2x.progressive.jpg?v=1708592476"
+    },
+    {
+      "id": 9,
+      "category": "fescoz",
+      "title": "قماش فيسكوز بيور بتنجاني ساده",
+      "desc": "فستان▪️طرح▪️قمصان▪️جيبه قماشه ناعمه انسيابيه و لطيفه على الجسم, بتكش بسيط اول غسله فقط تعليمات الغسيل: يغسل على البارد او غسيل جاف لضمان الحفاظ على جودة و لون القماش",
+      "width": 150,
+      "price": "99",
+      "img_path": "https://mahitab.com/cdn/shop/products/Hilco-Stoffladen-Jersey-Aubergine-Violett_ml_medium@2x.progressive.jpg?v=1660135230"
+    },
+    {
+      "id": 10,
+      "category": "fescoz",
+      "title": "قماش فيسكوز بيور ابيض ساده",
+      "desc": "فستان▪️طرح▪️قمصان▪️جيبه قماشه ناعمه انسيابيه و لطيفه على الجسم, بتكش بسيط اول غسله فقط تعليمات الغسيل: يغسل على البارد او غسيل جاف لضمان الحفاظ على جودة و لون القماش",
+      "width": 150,
+      "price": "99",
+      "img_path": "https://mahitab.com/cdn/shop/products/IMG_4273_55dfeabc-a19d-44f9-abec-bda6d916a004_medium@2x.progressive.jpg?v=1624153524"
+    },
+    {
+      "id": 11,
+      "category": "ktan",
+      "title": "قماش كتان تويل فستقي ساده",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "110",
+      "img_path": "https://mahitab.com/cdn/shop/files/IMG_5419_09feb3a7-30b2-4912-9f12-1e8e64679c67_medium@2x.progressive.jpg?v=1687086929"
+    },
+    {
+      "id": 12,
+      "category": "ktan",
+      "title": "قماش كتان تويل رمادي ساده",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "110",
+      "img_path": "https://mahitab.com/cdn/shop/products/fefer_medium@2x.progressive.jpg?v=1645288517"
+    },
+    {
+      "id": 13,
+      "category": "ktan",
+      "title": "قماش كتان ليكرا مشجر",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "90",
+      "img_path": "https://mahitab.com/cdn/shop/products/6b5cfb8daa555033637e974772e4d9db_medium@2x.progressive.jpg?v=1707226828"
+    },
+    {
+      "id": 14,
+      "category": "ktan",
+      "title": "قماش كتان تويل اسود ساده",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "110",
+      "img_path": "https://mahitab.com/cdn/shop/products/IMG_5413_medium@2x.progressive.jpg?v=1645288521"
+    },
+    {
+      "id": 15,
+      "category": "ktan",
+      "title": "قماش كتان تويل منت جرين ساده",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "110",
+      "img_path": "https://mahitab.com/cdn/shop/products/IMG_5419_0f689a85-cf12-4ba2-b21b-3270dfbf730a_medium@2x.progressive.jpg?v=1624153580"
+    },
+    {
+      "id": 16,
+      "category": "ktan",
+      "title": "قماش كتان تويل طوبي غامق ساده",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "110",
+      "img_path": "https://mahitab.com/cdn/shop/products/burnt-orange-lightweight-washed-linen-fabric_productsbig90676_medium@2x.progressive.jpg?v=1678271557"
+    },
+    {
+      "id": 17,
+      "category": "ktan",
+      "title": "قماش كتان مشجر",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "90",
+      "img_path": "https://mahitab.com/cdn/shop/files/20230507_100227_medium@2x.progressive.jpg?v=1683450371"
+    },
+    {
+      "id": 18,
+      "category": "ktan",
+      "title": "قماش كتان مشجر",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "75",
+      "img_path": "https://mahitab.com/cdn/shop/files/20230507_103833_medium@2x.progressive.jpg?v=1683450627"
+    },
+    {
+      "id": 19,
+      "category": "ktan",
+      "title": "قماش كتان ليكرا مشجر",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "90",
+      "img_path": "https://mahitab.com/cdn/shop/products/d1f2c62605a418758bd30890b1991ce2_medium@2x.progressive.jpg?v=1707226791"
+    },
+    {
+      "id": 20,
+      "category": "ktan",
+      "title": "قماش كتان خام مشجر",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "110",
+      "img_path": "https://mahitab.com/cdn/shop/products/20220519_230314_medium@2x.progressive.jpg?v=1656195767"
+    },
+    {
+      "id": 21,
+      "category": "satan",
+      "title": "قماش ستان چاكار تايجر ازرق",
+      "desc": "قماش ستان چاكار لامع وناعم وبه نسبة ليكرا بسيطة.",
+      "width": 150,
+      "price": "145",
+      "img_path": "https://mahitab.com/cdn/shop/products/6cccbc2b0c1ab1294e5291c6bef98e7e_medium@2x.progressive.jpg?v=1708697424"
+    },
+    {
+      "id": 22,
+      "category": "satan",
+      "title": "قماش ستان چاكار سناك بني",
+      "desc": "قماش ستان چاكار لامع وناعم وبه نسبة ليكرا بسيطة.",
+      "width": 150,
+      "price": "145",
+      "img_path": "https://mahitab.com/cdn/shop/products/bd1a2fc990b50edfa212aba3b8b9efff_medium@2x.progressive.jpg?v=1708697436"
+    },
+    {
+      "id": 23,
+      "category": "satan",
+      "title": "قماش ستان چاكار سناك فوشيا",
+      "desc": "قماش ستان چاكار لامع وناعم وبه نسبة ليكرا بسيطة.",
+      "width": 150,
+      "price": "145",
+      "img_path": "https://mahitab.com/cdn/shop/products/4f07aeb85d3ef2ad40b6fd2225a20bf5_medium@2x.progressive.jpg?v=1708697444"
+    },
+    {
+      "id": 24,
+      "category": "satan",
+      "title": "قماش ستان چاكار سناك احمر",
+      "desc": "قماش ستان چاكار لامع وناعم وبه نسبة ليكرا بسيطة.",
+      "width": 150,
+      "price": "145",
+      "img_path": "https://mahitab.com/cdn/shop/products/17215ecd17c1c5ab25ec1cb4163d242c_medium@2x.progressive.jpg?v=1708697451"
+    },
+    {
+      "id": 25,
+      "category": "satan",
+      "title": "قماش ستان چاكار سناك اسود",
+      "desc": "قماش ستان چاكار لامع وناعم وبه نسبة ليكرا بسيطة.",
+      "width": 150,
+      "price": "145",
+      "img_path": "https://mahitab.com/cdn/shop/products/730a2aa44f89b1a47396071ce5707581_medium@2x.progressive.jpg?v=1708697387"
+    },
+    {
+      "id": 26,
+      "category": "satan",
+      "title": "قماش ستان چاكار تايجر بينك",
+      "desc": "قماش ستان چاكار لامع وناعم وبه نسبة ليكرا بسيطة.",
+      "width": 150,
+      "price": "145",
+      "img_path": "https://mahitab.com/cdn/shop/products/8c5192a293879f0f7c8fc6a5233e7402_medium@2x.progressive.jpg?v=1708697396"
+    },
+    {
+      "id": 27,
+      "category": "satan",
+      "title": "قماش ستان چاكار تايجر بيج",
+      "desc": "قماش ستان چاكار لامع وناعم وبه نسبة ليكرا بسيطة.",
+      "width": 150,
+      "price": "145",
+      "img_path": "https://mahitab.com/cdn/shop/products/dce5b717216bd97a1c82b3e517fa1080_medium@2x.progressive.jpg?v=1708697406"
+    },
+    {
+      "id": 28,
+      "category": "satan",
+      "title": "قماش ستان چاكار تايجر فوشيا",
+      "desc": "قماش ستان چاكار لامع وناعم وبه نسبة ليكرا بسيطة.",
+      "width": 150,
+      "price": "145",
+      "img_path": "https://mahitab.com/cdn/shop/products/52406d3533188e8b20caa280450964b2_medium@2x.progressive.jpg?v=1708697415"
+    },
+    {
+      "id": 29,
+      "category": "satan",
+      "title": "قماش ستان چاكار تايجر هافان",
+      "desc": "قماش ستان چاكار لامع وناعم وبه نسبة ليكرا بسيطة.",
+      "width": 150,
+      "price": "145",
+      "img_path": "https://mahitab.com/cdn/shop/products/dd9fe11cde4d251b438cf0ab4230973d_medium@2x.progressive.jpg?v=1708697331"
+    },
+    {
+      "id": 30,
+      "category": "satan",
+      "title": "قماش ستان چاكار سناك اخضر غامق",
+      "desc": "قماش ستان چاكار لامع وناعم وبه نسبة ليكرا بسيطة.",
+      "width": 150,
+      "price": "145",
+      "img_path": "https://mahitab.com/cdn/shop/products/4dcb650353241b05e00607b43f9585b9_medium@2x.progressive.jpg?v=1708697347"
+    },
+    {
+      "id": 31,
+      "category": "shefon",
+      "title": "قماش شيفون دوت طوبي ساده",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "65",
+      "img_path": "https://mahitab.com/cdn/shop/products/cebf3ac80de9facb8b5d6ce982bc74b9_medium@2x.progressive.jpg?v=1707226468"
+    },
+    {
+      "id": 32,
+      "category": "shefon",
+      "img_path": "https://mahitab.com/cdn/shop/products/af2e837ed6368d712e28797a3b70bd9a_medium@2x.progressive.jpg?v=1707226483",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "65",
+      "title": "قماش شيفون دوت مستردة ساده"
+    },
+    {
+      "id": 33,
+      "category": "shefon",
+      "title": "قماش شيفون دوت منت جرين ساده",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "65",
+      "img_path": "https://mahitab.com/cdn/shop/products/c6bb3866135509987375050b7817ede7_medium@2x.progressive.jpg?v=1707226500"
+    },
+    {
+      "id": 34,
+      "category": "shefon",
+      "title": "قماش شيفون دوت جملي ساده",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "65",
+      "img_path": "https://mahitab.com/cdn/shop/products/f77664c073b1ca12cb55f3bc7997df46_medium@2x.progressive.jpg?v=1707226507"
+    },
+    {
+      "id": 35,
+      "category": "shefon",
+      "title": "قماش شيفون دوت ازرق ساده",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "65",
+      "img_path": "https://mahitab.com/cdn/shop/products/2d940f68b092ba0ed12d18f466bb1d3a_medium@2x.progressive.jpg?v=1707226422"
+    },
+    {
+      "id": 36,
+      "category": "shefon",
+      "title": "قماش شيفون دوت بينك ساده",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "65",
+      "img_path": "https://mahitab.com/cdn/shop/products/8f3dc720641e99fe75f907df8c3bb32a_medium@2x.progressive.jpg?v=1707226436"
+    },
+    {
+      "id": 37,
+      "category": "shefon",
+      "title": "قماش شيفون دوت زيتي ساده",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "65",
+      "img_path": "https://mahitab.com/cdn/shop/products/8047fd91390685c60f89b96d78b778a8_medium@2x.progressive.jpg?v=1707226449"
+    },
+    {
+      "id": 38,
+      "category": "shefon",
+      "title": "قماش شيفون دوت ابيض ساده",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "65",
+      "img_path": "https://mahitab.com/cdn/shop/products/3e2829b9823ff177087d82076eef5fcd_medium@2x.progressive.jpg?v=1707226455"
+    },
+    {
+      "id": 39,
+      "category": "shefon",
+      "title": "قماش شيفون دوت بيج ساده",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "65",
+      "img_path": "https://mahitab.com/cdn/shop/products/886c050240f66ffe2d5cd63b1bdbf6b3_medium@2x.progressive.jpg?v=1707226375"
+    },
+    {
+      "id": 40,
+      "category": "shefon",
+      "title": "قماش شيفون دوت لافندر ساده",
+      "desc": "فستان▪️قميص▪️بنطلون▪️بلوزه",
+      "width": 150,
+      "price": "65",
+      "img_path": "https://mahitab.com/cdn/shop/products/fea3e3c8143a7fd7e015572b859c48cf_medium@2x.progressive.jpg?v=1707226397"
+    }
+  ],
+  "card": [
+    {
+      "user_id": 2,
+      "product_id": 12,
+      "count": 1,
+      "id": 3
+    },
+    {
+      "user_id": 2,
+      "product_id": 1,
+      "count": 1,
+      "id": 4
+    },
+    {
+      "user_id": 2,
+      "product_id": 6,
+      "count": 1,
+      "id": 5
+    },
+    {
+      "user_id": 1,
+      "product_id": 12,
+      "count": 1,
+      "id": 6
+    },
+    {
+      "user_id": 1,
+      "product_id": 12,
+      "count": 1,
+      "id": 7
+    },
+    {
+      "user_id": 1,
+      "product_id": 13,
+      "count": 1,
+      "id": 8
+    }
+  ]
+}
